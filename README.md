@@ -1,1 +1,2 @@
-# Price-Optimisation-
+# Price-Optimisation 
+Welcome to our Retail Price Optimization System, a cutting-edge application leveraging Reinforcement Learning (RL) techniques to revolutionize retail management. In response to the limitations of traditional pricing practices, our system aims to enhance sales revenues and profitability by dynamically updating product prices, considering factors such as demand volatility, competitor rates, stock levels, and market forces. 
